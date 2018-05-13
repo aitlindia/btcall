@@ -1,0 +1,15 @@
+
+05-13 19:36:58.169 24905-24905/aitlindia.com.btcall E/TelephonyAnswer: Unable to use the Telephony Manager directly.
+    java.lang.NoSuchMethodException: answerRingingCall []
+        at java.lang.Class.getConstructorOrMethod(Class.java:472)
+        at java.lang.Class.getMethod(Class.java:857)
+        at aitlindia.com.btcall.BTFGService.acceptCallNewRefection(BTFGService.java:268)
+        at aitlindia.com.btcall.BTFGService$1.handleMessage(BTFGService.java:143)
+        at android.os.Handler.dispatchMessage(Handler.java:102)
+        at android.os.Looper.loop(Looper.java:146)
+        at android.app.ActivityThread.main(ActivityThread.java:5653)
+        at java.lang.reflect.Method.invokeNative(Native Method)
+        at java.lang.reflect.Method.invoke(Method.java:515)
+        at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1291)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1107)
+        at dalvik.system.NativeStart.main(Native Method)
