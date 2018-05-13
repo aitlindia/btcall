@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BTCall.iml" filepath="$PROJECT_DIR$/BTCall.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/btcall.iml" filepath="$PROJECT_DIR$/btcall.iml" />
+=======
+>>>>>>> e6c85aeded43100930e5d4da045595dd791bf9b9
     </modules>
   </component>
 </project>
